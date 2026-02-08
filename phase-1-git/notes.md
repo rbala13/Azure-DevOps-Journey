@@ -10,3 +10,6 @@
 - `git add .`: Stage changes.
 - `git commit -m ""`: Snapshot changes.
 - `git push`: Upload to cloud.
+
+## Learning branching
+- Created my first branch today
